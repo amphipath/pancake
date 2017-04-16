@@ -1,4 +1,4 @@
-def flip(s,k,p)
+def flip(s,k,p):
     if len(s) < k+p:
         return none
     else:
